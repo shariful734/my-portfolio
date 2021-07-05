@@ -38,6 +38,8 @@ a{text-decoration: none;
 }
 h2{font-size: 40px;}
 
+
+
 .box{width: 40%;
     margin-left: 5%;
     box-shadow: 20px 30px 40px grey;
@@ -46,7 +48,10 @@ h2{font-size: 40px;}
     padding-bottom: 8%;
     border-left: 10px solid;
     border-image: linear-gradient(blue, cyan);
-    border-image-slice: 1;
-}
+    border-image-slice: 1;}
 
 .orange{color: orange;}
+.bottom{ background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;}
+footer{text-align: center;}
